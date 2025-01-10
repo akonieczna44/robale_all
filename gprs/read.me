@@ -9,16 +9,16 @@
   - filtruje i zostawia te pliki, które są kartami bezpieczeństwa
   - wydobywa tytuły produktów (znajdujące się przed "1. Podmiot odpowiedzialny")
 
-3. Arkusz jest ręcznie przenoszony do podarkusza w Google Arkuszu.
+3. Arkusz wygenerowany ze skryptu jest ręcznie przenoszony do podarkusza w Google Arkuszu.
 
-4. Skrypt w AppsScript w arkuszu:
+4. Skrypt .js AppsScript w Google Arkuszu:
   - bierze z podarkusza z danymi z pythona nazwę_pliku.pdf,
-  - jeśli tak, to przypisuje tytuł pliku obok nazwy_pliku.pdf
+  - sprawdza czy w głównym (ręcznie wprowadzonym) arkuszu też jest taka nazwa_pliku.pdf
+  - jeśli tak, to przypisuje tytuł pliku obok nazwy_pliku.pdf w głównym arkuszu
 
 
-I tym samym za pomocą dwóch skryptów, arkusza można przy dowolnej liczbie pdf uzyskać ich:
+I tym samym za pomocą dwóch skryptów i arkusza można przy dowolnej liczbie pdf uzyskać ich:
  - ścieżkę
  - tytuł
 
 I tym samym wygenerować kod HTML do osadzenia w kodzie produktu na stronie sklepu.
-
