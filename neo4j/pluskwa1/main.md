@@ -11,15 +11,15 @@
 3. pomysł rozszerzenia gałęzi o kategorie produktów i produkty w konwencji...
 
 Pluskwa domowa
- ├─ POWODUJE → Ugryzienia
- ├─ WYSTĘPUJE_W → Materace, meble
- ├─ ZWALCZANA_PRZEZ → Spraye, fumigatory
- │      ├─ ZAWIERA → Spray A
- │      ├─ ZAWIERA → Spray B
- │      └─ ZAWIERA → Spray C
- ├─ ZWALCZANA_PRZEZ → Pułapki
- │      └─ ZAWIERA → Pułapka Lepowa
- └─ ZWALCZANA_PRZEZ → Myjka parowa
+ ├─ POWODUJE → Ugryzienia  
+ ├─ WYSTĘPUJE_W → Materace, meble  
+ ├─ ZWALCZANA_PRZEZ → Spraye, fumigatory  
+ │      ├─ ZAWIERA → Spray A  
+ │      ├─ ZAWIERA → Spray B  
+ │      └─ ZAWIERA → Spray C  
+ ├─ ZWALCZANA_PRZEZ → Pułapki  
+ │      └─ ZAWIERA → Pułapka Lepowa  
+ └─ ZWALCZANA_PRZEZ → Myjka parowa  
 
 
 
