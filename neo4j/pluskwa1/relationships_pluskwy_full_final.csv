@@ -1,0 +1,9 @@
+start_id,end_id,type
+pluskwa_domowa,oprysk,ZWALCZANA_PRZEZ
+pluskwa_domowa,spray_bomba,ZWALCZANA_PRZEZ
+pluskwa_domowa,zestaw,ZWALCZANA_PRZEZ
+pluskwa_domowa,pulapka,ZWALCZANA_PRZEZ
+pluskwa_domowa,inne,ZWALCZANA_PRZEZ
+spray_bomba,p1,ZAWIERA_PRODUKT
+oprysk,p2,ZAWIERA_PRODUKT
+pulapka,p3,ZAWIERA_PRODUKT
