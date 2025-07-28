@@ -3,6 +3,7 @@
   - plik główny zawiera podstawowe kategorie
   - plik drugi zawiera relacje (typu: pluskwa --> występuje --> materace)
 
+<img width="613" height="454" alt="image" src="https://github.com/user-attachments/assets/24925f40-7b8c-445a-aa71-ab8dcce42e5f" />
 
 
 
